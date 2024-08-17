@@ -89,7 +89,6 @@ function timelineTwo() {
        trigger: "#second",
        scrub: 1,
        start: "top Top",
-       markers: true,
        end: "bottom -150%",
        pin: true
 }
